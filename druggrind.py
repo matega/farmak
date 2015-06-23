@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import sys
+from random import shuffle, sample, choice, randrange
 def explodeline(line):
 	return tuple([[d.strip() for d in p.split(",")] for p in line.split("\t")])
 
@@ -57,6 +58,25 @@ with open("effects.txt", "w") as f:
 with open("indications.txt", "w") as f:
 	for indication in sorted(allindications):
 		f.write(indication+"\n")
-print(byeffect(raw_input("Effect? ")))
+while True:
+	sys.stderr.write("\x1b[2J\x1b[H")
+	e=randrange(len(alleffects))
+	effect=alleffects[e]
+	solution=choice(byeffectid(e))
+	options=sample([drug for drug in database.keys() if not e in database[drug]["effects"]], 3)
+	solid=randrange(3)
+	options.insert(solid, solution)
+	sol=raw_input("Which one of these is {}? \n{}\n".format(effect, "\n".join(["ABCD"[d]+": "+options[d] for d in range(4)]))).capitalize()=="ABCD"[solid]	
+	sys.stderr.write("\x1b[2J\x1b[H")
+	print("Which one of these is "+effect+"?\n"+"\n".join(["ABCD"[d]+": "+options[d].ljust(len(max(options,key=len))+3," ")+", ".join([alleffects[e] for e in database[options[d]]["effects"]]) for d in range(4)]))
+	if sol:
+		print("Good!\n")
+	else:
+		print("No, the solution is " + solution + "\n")
+	raw_input("Press Enter to continue...")
+
+	
+
+
 		
 	

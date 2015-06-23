@@ -1,0 +1,250 @@
+Szer	Hatás	Használat
+Adrenalin	A1	Anafilaxia, lokális vazokonstrikció, pupillatágítás
+Noradrenalin	A1	Neurigén shock
+Phenylephrin	A1	Súlyos hypotonia, lokális vazokonstrikció
+Methoxamin	A1	Súlyos hypotonia, lokális vazokonstrikció
+Xylometazolin	A1	Orrnyálkahártyaduzzanat
+Naphazolin	A1	Orrnyálkahártyaduzzanat
+Ergotamin	A1	
+Ergometroin	A1	
+Prazosin	A1-	Hypertonia, Prostatahyperplasia
+Terazosin	A1-	Hypertonia, Prostatahyperplasia
+Doxasosin	A1-	Hypertonia, Prostatahyperplasia
+Labetalol	A1-	Hypertonia
+Carvedilol	A1-	Hypertonia
+Urapidil	A1-	Hypertonia
+Phentolamin	A1-	Perifériás érszűkület
+Tolazolin	A1-	Perifériás érszűkület
+Phenoxybenzamin	A1-i	Phaeocromocytoma
+Tamsulosin	A1a-	Prostatahyperplasia
+Adrenalin	A2	
+Noradrenalin	A2	
+Clonidin	A2	Hypertonia, koanalgetikum, opiátelvonás
+Guanfacin	A2	Hypertonia
+Guanabenz, Methyldopa	A2	Hypertonia
+Apraclonidin, Brimonidin	A2	Glaucoma
+Oxymetazolin	A2	Orrnyálkahártyaduzzanat
+Tiazidin	A2	Harántcsíkolt izomspazmus
+Phenoxybenzamin	A2-i	
+Phentolamin	A2-	
+Tolazolin	A2-	
+Adrenalin	B1	Újraélesztés
+Noradrenalin, Isoprenalin	B1	
+Dopamin, Dobutamin	B1	
+Metoprolol, Propranolol	B1-	Hyertonia, Szívelégtelenség, Tachyarrhythmia, Angina
+Amiodaron	B1-a	Arrhythmia
+Propafenon, Sotalol	B1-	Arrhythmia
+Adrenalin	B2	Hörgőtágítás, Anaphylaxia
+Isoprenalin	B2	
+Terbutalin, Salbutamol	B2	Asthma, Koraszülés
+Propranolol	B2-	
+Acetilkolin, Metacholin	M	
+Carbachol, Betanechol	M	Bélatonia, glaucoma
+Pilocarpin	Ml	Glaucoma
+Succinylcholin	M	
+Physostigmin, Neostigmin, Demecarium	ChE-	Myasthenia gravis
+Alkilfoszfátok	ChE-i	Myasthenia gravis
+Edrophonium	ChE-	Myasthenia gravis, Curare antagonista, SV tachykardia
+Atropin	M-	Bradycardia, AV-blokk
+Scopolamin	M-	Vestibularis hányinger
+Cyclopentolat, Tropicamid	M-	Pupillatágítás
+Benztropin, Trihexyphenydil, Procyclidin, Biperiden	M-	Parkinson-kór
+Ipratropium, Oxitropium	M-	COPD
+Methylhomatropin, Propanthelin, Glycopyrrolat	M-	Simaizomgörcs
+Pirenzepin, telenzepin	M1-	Ulcus pepticum
+Trimetaphan	NN-	Aortaaneurysma
+Tubocurarin	NN-	
+Succinylcholin	NM	Depolarizáló izomrelaxáns
+Tubocurarin, Pancuronium, Pipecuronium, Alcuronium	NM-	Hosszú hatású nem-depolarizáló izomrelaxáns
+Vecuronium, Atracurium	NM-	Közepes hatású nem-depolarizáló izomrelaxáns
+Nivacurium, Fazadinium	NM-	Rövid hatású nem-depolarizáló izomrelaxáns
+Adenozin	AD-	SVPT
+Koffein, Theophyllin, Theobromin	AD-	Asthma
+Losartan, Valsartan	AT2-	Hypertonia, Szívelégtelenség
+Enalapril	ACE-	Hypertonia, Szívelégtelenség
+Enalapril	BK-	
+Dopamin	D	
+Bromocryptin, Cabergolin, Pergolid	D	Parkinson-kór, Hyperprolactinemia, Neuroleptikus malignus szindróma
+Ropinirol, Pramipexol	D	Parkinson-kór
+Apomorphin	D	Hánytató, Parkinson-kór
+Levodopa	D	Parkinson-kór
+Selegilin	MAOB-	Parkinson-kór
+Amantadin, Cocain, Amphetamin, Metamphetamin	D+	
+Ergotamin, Ergometrin	D	
+Amisulprid	D2-	Pszichózis
+Reserpin	D-s	
+Phenotiazion, Butirofenon	D2-	Pszichózis
+Metoclopramid, Domperidon	D-	
+Thiethylperazin	D-	Hányás
+Clozapin	D4-	Pszichózis
+Diazepam, Alprazolam, Midazolam	GABAA	Szorongásoldó, Alvászavar, Anesztézia,Görcsgátlás
+Zopiclon, Zolpidem, Zalepton	GABAA	Alvászavar
+Phenobarbital	GABAA	Epilepszia
+Thiopental	GABAA	Anesztézia
+Propofol, Etomidat	GABAA	Anesztézia
+Valproat, Vigabatrin	GABA+l	Epilepszia
+Gabapentin	GABA+	Epilepszia
+Tiagabin	GABA+	Epilepszia
+Topiramat	GABA+a	Epilepszia
+Baclofen	GABAB	Harántcsíkolt izomspazmus
+Acamprosate	NMDAp	Alkoholizmus
+Phencyclidin	NMDA-	
+Ketamin	NMDA-	Anesztézia
+Amantadin	NMDA-	Parkinson-kór
+Memantin	NMDA-	Parkinson-kór, Harántcsíkolt izomspazmus
+Felbamat	NMDA-a	Epilepszia
+Topiramat	AMPA-	Epilepszia
+Gonadorelin	GNRH	Infertilitás
+Leuprolid, Buserelin, Nafarelin, Goserelin	GNRH-	IVF, Hormonérzékeny tumor
+Phentolamin, Tubocurarin, Suxamethonium, Morfin, Pethidin, Vancomycin, Chloroquin	H1+	
+Diphendyramin	H1-	Allergia, Vesztibuláris hányinger
+Cetrizin, Loratadin	H1-	Allergia
+Cromolyn	H1-	Asthma
+Phentolamin, Tolazolin	H+	
+Cimetidin, Ranitidin	H2-	
+Buspiron	5HT1A	Szorongásoldó
+Sumatriptan, Ergotamin, Dihydroergotamin	5HT1BD	Migrén
+LSD	5HT2AC	
+Methysergid, Pizitofen, Dihydroergotamin	5HT2AC-	Migrénmegelőzés
+Risperidon, Clozapin, Quetiapin, Olanzapin, Ziprasidon	5HT2AC-	Pszichózis
+Trazodon, Mirtazapin, Mianserin	5HT2AC-	Depresszió
+Cyproheptadin	5HT2AC-	Migrénmegelőzés
+Ondansetron, Dolasetron, Granisetron, Tropisetron	5HT3-	Hányás
+Metclopramid	5HT3-	Hányás
+Cisaprid, Metoclopramid, Tegaserod	5HT4	Prokinetikum, GERD
+Zafirlukast, Montelukast, Pranlukast	LT-	Asthma
+Zileuton	LOX-	Asthma, Rhinitis
+Morfin	MORFU	Analgézia
+Methadon	MORFU	Analgézia, Opioidleszoktatás
+Fentanyl, Sufentanyl, Alfentanyl, Remifentanyl	MORFU	Analgézia
+Pethidin	MORFU	Analgézia
+Heroin	MORFU	
+Buprenorphin	MORFUp	Analgézia
+Nalbuphin, Pentazocin, Butorphanol	MORFK	Analgézia
+Nalbuphin, Pentazocin, Butorphanol	MORFU-	
+Codein	MORF	Köhögés
+Tramadol	MORFU	Analgézia
+PDiphenoxylat, Loperamid	MORFU	Hasmenés
+Naloxon, Naltrexon	MORFU-	Opioidmérgezés
+Pentazocin, Nalbuphin,Butorphanol	MORFK	
+Pentazocin, Nalbuphin,Butorphanol	MORFU-	
+Methylnaltrexon	MORFU-	Opioid székrekedés
+Ticlopidin, Clopidogrel	P2Y-	Thrombocytaaggregációgátló
+Dinoproston	PGE2	Szülés beindítása
+Gemeprost	PGE1	Cervixdilatáció
+Sulproston	PGE2	Abortusz
+Misoprostol	PGE1	Gyomorfekély, Abortusz
+Alprostadil	PGE	Impotencia, Primer pulmonalis hypertonia
+Epoprostenol, Iloprost	PGI2	Thrombangitiis obliterans
+Latanaprost	PGF2A	Glaucoma
+Vasopressin, Lypressin	AVP	Diabetes insipidus
+Desmopressin, Ornipressin	AVP2	Diabetes insipidus, Enuresis nocturna, Haemophiilia A, von Willenbrand
+Terlipressin	AVP1	Oesophagus varix
+Lithium, Demeclocyclin	AVP-	SIADH
+Benzafibrat	PPARA	Hyperlipidemia
+Rosiglitazon, Pioglitazon	PPARG	Diabetes mellitus
+Aldosteron	MK	
+Cortisol	MK	
+Fludrocortison	MK	Mellékvesekéregelégtelenség
+Prednisolon, Methylprednisolon	MK	
+Spironolacton	MK-	
+Cortisol	GK	Mellékvesekéregelégtelenség
+Prednisolon, Methylprednisolon, Fluocortolon, Triamcinolon, Dexamethason, Betamethason	GK	Gyulladás, Immunszuppresszió
+Budenosid, Flunisolid, Fluticason, Beclomethason	GK	Asthma
+Mifepriston	GK-	
+Progeszteron	PROG	Luteális fázis
+Medroxyprogesteron-acetát	PROG	Postmenopausa, Endometriosis, Fogamzásgátlás
+Norethisteron	PROG	Postmenopausa, Fogamzásgátlás
+Levonorgestrel	PROG	Fogamzásgátlás
+Mifepriston	PROG-	Abortusz
+Testosteron	ANDR	Hormonpótlás
+Anabolikus szteroid	ANDR	Proteinveszteség
+Norethisteron	ANDR	
+Flutamid, Bicalutamid, Nilutamid	ANDR-	Prostatacarcinoma, hirsutismus
+Cyproteron-acetát, Clormadinon-acetát, Dienogest, Drospirenon	ANDR-	Hirsutismus, hypersexualitás, Alopecia
+Cimetidin	ANDR-	
+Spironolcton	ANDR-	Hirsutismus
+Estradiol, Ethinylestradiol, Mestranol	ESTR	Hormonpótlás, Fogamzásgátlás, Osteoporosis
+Tibolon	ESTR	Osteoporosis, Menopausa
+Fulvestrant	ESTR-	Emlőrák
+Tamoxifen, Toremifen, Raloxifen	ESTR?	Emlőtumor
+Clomifen	ESTR?	Ovuláció
+Gestagen	ESTR-	Emlőtumor
+Insulin	INS	Diabetes mellitus
+Sulfonylurea, Glibenclamid, Glipizid, Rapaglinid, Nateglinid	INS+	Diabetes mellitus
+Metformin	INSa	Diabetes mellitus
+Kokain	NET-	
+Imipranin, Amitryptin	NET-	
+Sibutramin	NET-	
+Imipranin, Amitryptin	SERT-	Depresszió
+Fluoxetin	SERT-	Depresszió
+Nifedipin, Amlodipin	LCA-	Hypertonia, Angina
+Nimodipin	LCA-	Subarachnoidalis vérzés, Cerebrális spasmus
+Verapamil, Diltiazem	LCA-	Hypertonia, Angina, Tachyarrhythmia
+Amiodaron	LCA-	Tachyarrhythmia
+Ethosuximid	TCA-	Epilepszia
+Valproat	TCA-	Epilepszia
+Tiamteren, Amilorid	ENAC-	Diuretikum
+Minoxidil	ATPK-	Hypertonia, Alopecia
+Diazolid	ATPK-	Hypertonia, Hypoglikemia
+Glibenclamid, Glipizid	ATPK-	Diabetes mellitus
+Repaglinid, Nateglinid	ATPK-	Diabetes mellitus
+Quinidin, Amiodaron, Sotalol	VDRK-	Arrhythmia
+Dofelid, Ibutilid, Astemizol, Terfenadin, Cisaprid, Kinin	VDRK-	
+Lidocain, Procain, Cocain	FVNA-	Lokális anesztézia
+Phenytoin	FVNA-	Epilepszia
+Carbamazepin, Valproat	FVNA-	Epilepszia
+Lamotrigin, Topiramat, Zonisamid	FVNA-	Epilepszia
+Quinidin, Amiodaron, Propafenon	FVNA-	Arrhythmia
+Tolperison	FVNA-	Harántcsíkolt izomspazmus
+Acetilsalicilsav	COX-i	Fájdalomcsillapító, lázcsillapító, Gyulladás, Trombocytaaggregációgátló
+Diclofenac, Ibuprofen, Piroxicam, Indomethacin	COX-	Fájdalomcsillapító, lázcsillapító, Gyulladás
+Noraminophenazon	COX-	Analgézia
+Paracetamol	COX-	Lázcsillapítás
+Celecoxib, Rofecoxib	COX2-	Gyulladásgátló, Fájdalomcsillapító, Rheumatoid arthritis
+Zileuton	LOX-	Asthma
+Sulfasalazin	LOX-	Krónikus gyulladás
+Koffein	PDE-	
+Teophyllin Aminophyllin	PDE-	Asthma
+Dipyridamol	PDE-	Thrombocytaaggregációgátló
+Sildenafil, Vardenafil, Tadalafil	PDE5-	Erekció
+Amrinon, Milrinon, Enoximon	PDE3-	Krónikus szívelégtelenség
+Nitroglicerin	GC	Angina
+Nitroprussid-Na	GC	Hypertensív krízis
+Nesiritid, Anaritid	GC	Akut szívelégtelenség
+Tacrin, dopenezil, Rivastigmin, Galantamin	ChE-	Alzheimer
+Physostigmin	ChE-	Glaucoma
+Neostigmin	ChE-	Paralyticus ileus, Hólyagatonia, Glaucoma, Myasthenia gravis
+Parathion, Soman	ChE-i	
+Disulfiram	ALDH-	Alkoholizmus
+Cefamandol, Cefoperazon, Metronidazol	ALDH-	
+Phenelzin, Tranylcipromin	MAO-i	
+Selegiln	MAOB-i	Parkinson-kór
+Moclobemid	MAOA-	Depresszió
+Acetazolamid	CA-	Glaucoma, Epilepszia, Metabolikus alkalosis
+Topiramat	CA-	Epilepszia
+Dorzolamid, Brinzolamid	CA-	Glaucoma
+Carbidopa, Benserazid	DOPADEC-	Parkinson-kór mellékhatáscsökkentő
+Entacapon, Tolcapon	COMT-	Parkinson adjuváns
+Ulcaptopril, Enalapril	ACE-	Hypertonia, Krónikus szívelégtelenség
+Allopurinol	XO-	Köszvény
+Furosemid, Etakrinsav	NAK2CL-	Diuretikum, Akut tüdőődéma, Hylertonia, Hypercalcemia
+Hydrochlorothiasid	NACL-	Diuretikum, Hypertonia, Diabetes insipidus
+Digitoxin, Digoxin	NAKATP-	Krónikus szívelégtelenség, Pitvarfibrilláció
+Lovastatin, Simvastatin	HMGCOA-	Hyperlipidemia
+Fenofibrat, Bezafibrat	LPL+	Hyperlipidemia
+Omeprazol, Lansoprazol	HKATP-	Gyomorfekély, GERD
+Trimethoprim, Pyrimethamin	DHFR-	Antibiotikum
+Methotrexat	DHFR-	Citosztatikum, Immunszuppresszió
+K-vitamin	KVER	Kumarintúladagolás
+Warfarin, Kumarin	KVER-	Thromboembólia
+Cefamandol, Cefoperazon	KVER-	
+Abciximab, Eptifibatid, Tirofiban	FIBR-	Thrombocytaaggregációgátló
+Propranolol, Amiodaron	T4T3-	
+Propylthiouracil	T4T3-	Hyperthyreosis
+Propylthiouracil, Methimazol, Carbimazol	T4T3-	Hyperthyreosis
+Formetasan	ARO-	Emlőrák
+Exemestan	ARO-i	Emlőrák
+Anastrozol, Letrozol, Vorozol	ARO	Emlőrák
+Finasterid	T5AR-	Prostatahyperplasia
+Vigabatrin, Valproat	GABATA-	Epilepszia
